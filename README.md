@@ -22,7 +22,7 @@ Note:
 The script must be executable for the command to work. To achieve this, run:
 
 ```
-chmod +u homework.sh
+chmod +x homework.sh
 ```
 Second way:
 
